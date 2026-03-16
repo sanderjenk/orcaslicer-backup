@@ -45,7 +45,7 @@
     "gcode_flavor": "klipper",
     "head_wrap_detect_zone": [],
     "high_current_on_filament_swap": "0",
-    "host_type": "prusalink",
+    "host_type": "octoprint",
     "inherits": "",
     "is_custom_defined": "0",
     "layer_change_gcode": "",
