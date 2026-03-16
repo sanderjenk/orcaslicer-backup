@@ -127,7 +127,7 @@
         "0"
     ],
     "machine_pause_gcode": "",
-    "machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]",
+    "machine_start_gcode": "PRINT_START EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
     "machine_tool_change_time": "0",
     "machine_unload_filament_time": "16",
     "manual_filament_change": "0",
