@@ -226,7 +226,7 @@
     "sparse_infill_density": "15%",
     "sparse_infill_filament": "1",
     "sparse_infill_line_width": "0.68",
-    "sparse_infill_pattern": "crosshatch",
+    "sparse_infill_pattern": "adaptivecubic",
     "sparse_infill_rotate_template": "",
     "sparse_infill_speed": "70",
     "spiral_finishing_flow_ratio": "0",
