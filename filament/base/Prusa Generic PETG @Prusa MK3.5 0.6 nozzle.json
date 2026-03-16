@@ -96,7 +96,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.99"
     ],
     "filament_id": "Prusa Generic PETG @CORE One",
     "filament_is_support": [
