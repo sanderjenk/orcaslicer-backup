@@ -63,7 +63,7 @@
         "70"
     ],
     "fan_cooling_layer_time": [
-        "180"
+        "60"
     ],
     "fan_max_speed": [
         "60"
@@ -112,7 +112,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "10"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -230,7 +230,7 @@
     "ironing_fan_speed": [
         "-1"
     ],
-    "is_custom_defined": "0",
+    "is_custom_defined": "1",
     "name": "Fiberon PET-GF15 @Prusa MK3.5 0.6 nozzle",
     "nozzle_temperature": [
         "285"
@@ -245,7 +245,7 @@
         "270"
     ],
     "overhang_fan_speed": [
-        "60"
+        "50"
     ],
     "overhang_fan_threshold": [
         "95%"
@@ -266,7 +266,7 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "5"
+        "15"
     ],
     "slow_down_min_speed": [
         "20"
