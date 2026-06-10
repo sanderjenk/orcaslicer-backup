@@ -36,10 +36,10 @@
         "80"
     ],
     "cool_plate_temp": [
-        "30"
+        "45"
     ],
     "cool_plate_temp_initial_layer": [
-        "30"
+        "45"
     ],
     "default_filament_colour": [
         ""
@@ -215,10 +215,10 @@
         "0"
     ],
     "hot_plate_temp": [
-        "40"
+        "55"
     ],
     "hot_plate_temp_initial_layer": [
-        "40"
+        "55"
     ],
     "idle_temperature": [
         "0"
@@ -284,16 +284,16 @@
         "60"
     ],
     "textured_cool_plate_temp": [
-        "40"
+        "50"
     ],
     "textured_cool_plate_temp_initial_layer": [
-        "40"
+        "50"
     ],
     "textured_plate_temp": [
-        "45"
+        "55"
     ],
     "textured_plate_temp_initial_layer": [
-        "45"
+        "55"
     ],
     "version": "2.3.1.10"
 }
