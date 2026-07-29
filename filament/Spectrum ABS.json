@@ -5,11 +5,14 @@
 	"compatible_printers": [
 		"Voron 2.4 250 0.4 nozzle"
 	],
+	"enable_pressure_advance": [
+		"1"
+	],
 	"fan_max_speed": [
 		"10"
 	],
 	"fan_min_speed": [
-		"0"
+		"5"
 	],
 	"filament_density": [
 		"1.05"
@@ -17,8 +20,14 @@
 	"filament_extruder_variant": [
 		"Direct Drive Standard"
 	],
+	"filament_flow_ratio": [
+		"0.945"
+	],
 	"filament_max_volumetric_speed": [
 		"18"
+	],
+	"filament_retraction_length": [
+		"0.2"
 	],
 	"filament_settings_id": [
 		"Spectrum ABS"
@@ -42,13 +51,16 @@
 		"270"
 	],
 	"overhang_fan_speed": [
-		"25"
+		"15"
 	],
 	"overhang_fan_threshold": [
 		"75%"
 	],
+	"pressure_advance": [
+		"0.024"
+	],
 	"slow_down_layer_time": [
-		"20"
+		"1"
 	],
 	"slow_down_min_speed": [
 		"15"
