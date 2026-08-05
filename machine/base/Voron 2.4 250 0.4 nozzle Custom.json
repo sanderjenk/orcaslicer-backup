@@ -1,0 +1,55 @@
+{
+	"extruder_clearance_height_to_rod": "42",
+	"extruder_clearance_radius": "50",
+	"fan_speedup_time": "1",
+	"from": "User",
+	"inherits": "Voron 2.4 250 0.4 nozzle",
+	"machine_max_acceleration_extruding": [
+		"10000",
+		"10000"
+	],
+	"machine_max_acceleration_retracting": [
+		"10000",
+		"10000"
+	],
+	"machine_max_acceleration_x": [
+		"10000",
+		"10000"
+	],
+	"machine_max_acceleration_y": [
+		"10000",
+		"10000"
+	],
+	"machine_max_acceleration_z": [
+		"350",
+		"200"
+	],
+	"machine_max_junction_deviation": [
+		"0.01"
+	],
+	"machine_max_speed_e": [
+		"100",
+		"25"
+	],
+	"machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]",
+	"name": "Voron 2.4 250 0.4 nozzle Custom",
+	"printable_height": "200",
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "Voron 2.4 250 0.4 nozzle Custom",
+	"retraction_length": [
+		"0.3"
+	],
+	"thumbnails": "48x48/PNG, 300x300/PNG",
+	"travel_slope": [
+		"1"
+	],
+	"version": "2.4.0.2",
+	"z_hop_types": [
+		"Slope Lift"
+	]
+}
