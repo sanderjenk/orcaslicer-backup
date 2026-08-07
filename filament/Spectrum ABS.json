@@ -44,12 +44,6 @@
 	],
 	"inherits": "Generic ABS @System",
 	"name": "Spectrum ABS",
-	"nozzle_temperature": [
-		"270"
-	],
-	"nozzle_temperature_initial_layer": [
-		"270"
-	],
 	"overhang_fan_speed": [
 		"0"
 	],
