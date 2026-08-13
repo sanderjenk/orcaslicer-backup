@@ -1,15 +1,18 @@
 {
 	"close_fan_the_first_x_layers": [
-		"5"
+		"10"
 	],
 	"compatible_printers": [
 		"Voron 2.4 250 0.4 nozzle"
+	],
+	"default_filament_colour": [
+		"#000000"
 	],
 	"enable_pressure_advance": [
 		"1"
 	],
 	"fan_max_speed": [
-		"0"
+		"10"
 	],
 	"fan_min_speed": [
 		"0"
@@ -30,13 +33,13 @@
 		"0.2"
 	],
 	"filament_settings_id": [
-		"Spectrum ABS"
+		"Tinmorry  ABS-GF"
 	],
 	"filament_shrink": [
-		"99.37%"
+		"99.71%"
 	],
-	"filament_shrinkage_compensation_z": [
-		"99.77%"
+	"filament_type": [
+		"ABS-GF"
 	],
 	"filament_vendor": [
 		"Spectrum"
@@ -49,18 +52,18 @@
 		"115"
 	],
 	"inherits": "Generic ABS @System",
-	"name": "Spectrum ABS",
+	"name": "Tinmorry  ABS-GF",
 	"nozzle_temperature": [
-		"270"
+		"280"
 	],
 	"nozzle_temperature_initial_layer": [
-		"270"
+		"285"
 	],
 	"overhang_fan_speed": [
-		"0"
+		"25"
 	],
 	"overhang_fan_threshold": [
-		"75%"
+		"50%"
 	],
 	"pressure_advance": [
 		"0.024"
