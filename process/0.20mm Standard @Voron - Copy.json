@@ -3,7 +3,9 @@
 	"brim_object_gap": "0.8",
 	"from": "User",
 	"inherits": "0.20mm Standard @Voron",
+	"internal_bridge_speed": "150%",
 	"name": "0.20mm Standard @Voron - Copy",
+	"overhang_1_4_speed": "0",
 	"print_extruder_id": [
 		"1"
 	],
