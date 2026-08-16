@@ -6,7 +6,10 @@
 		"1"
 	],
 	"fan_max_speed": [
-		"30"
+		"20"
+	],
+	"fan_min_speed": [
+		"0"
 	],
 	"filament_density": [
 		"1.05"
@@ -37,10 +40,10 @@
 	],
 	"from": "User",
 	"hot_plate_temp": [
-		"110"
+		"115"
 	],
 	"hot_plate_temp_initial_layer": [
-		"110"
+		"115"
 	],
 	"inherits": "Generic ABS @System",
 	"name": "Spectrum ABS",
@@ -49,6 +52,9 @@
 	],
 	"nozzle_temperature_initial_layer": [
 		"270"
+	],
+	"overhang_fan_speed": [
+		"20"
 	],
 	"pressure_advance": [
 		"0.024"
