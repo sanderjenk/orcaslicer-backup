@@ -218,7 +218,7 @@
 		"nil"
 	],
 	"filament_settings_id": [
-		"Prusa Generic PETG @Prusa MK3.5 0.6 nozzle"
+		"Custom PETG"
 	],
 	"filament_shrink": [
 		"100%"
@@ -306,7 +306,7 @@
 	"long_retractions_when_ec": [
 		"0"
 	],
-	"name": "Prusa Generic PETG @Prusa MK3.5 0.6 nozzle",
+	"name": "Cusotm PETG",
 	"nozzle_temperature": [
 		"240"
 	],

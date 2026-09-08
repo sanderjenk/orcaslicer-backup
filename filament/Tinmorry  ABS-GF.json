@@ -12,7 +12,7 @@
 		"1"
 	],
 	"fan_max_speed": [
-		"10"
+		"30"
 	],
 	"fan_min_speed": [
 		"0"
@@ -58,9 +58,6 @@
 	],
 	"nozzle_temperature_initial_layer": [
 		"285"
-	],
-	"overhang_fan_speed": [
-		"25"
 	],
 	"overhang_fan_threshold": [
 		"50%"

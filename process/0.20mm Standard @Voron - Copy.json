@@ -1,8 +1,9 @@
 {
 	"bottom_shell_layers": "5",
 	"bridge_density": "114%",
-	"bridge_speed": "10",
-	"brim_object_gap": "0.8",
+	"bridge_flow": "1",
+	"bridge_speed": "8",
+	"brim_object_gap": "0.08",
 	"from": "User",
 	"inherits": "0.20mm Standard @Voron",
 	"internal_bridge_speed": "150%",
