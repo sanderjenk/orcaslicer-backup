@@ -130,7 +130,7 @@
 		"Direct Drive Standard"
 	],
 	"filament_flow_ratio": [
-		"1"
+		"0.95"
 	],
 	"filament_flush_temp": [
 		"0"
@@ -288,10 +288,10 @@
 		"0"
 	],
 	"hot_plate_temp": [
-		"75"
+		"80"
 	],
 	"hot_plate_temp_initial_layer": [
-		"75"
+		"85"
 	],
 	"idle_temperature": [
 		"0"
@@ -306,12 +306,12 @@
 	"long_retractions_when_ec": [
 		"0"
 	],
-	"name": "Cusotm PETG",
+	"name": "Custom PETG",
 	"nozzle_temperature": [
-		"240"
+		"230"
 	],
 	"nozzle_temperature_initial_layer": [
-		"240"
+		"235"
 	],
 	"nozzle_temperature_range_high": [
 		"260"
@@ -329,7 +329,7 @@
 		"0.4157"
 	],
 	"pressure_advance": [
-		"0.04"
+		"0.03"
 	],
 	"reduce_fan_stop_start_freq": [
 		"1"
