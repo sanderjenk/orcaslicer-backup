@@ -1,0 +1,27 @@
+{
+	"compatible_printers": [
+		"Voron 2.4 250 0.4 nozzle"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_settings_id": [
+		"Fiberon PET-CF @System - Copy"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"80"
+	],
+	"hot_plate_temp_initial_layer": [
+		"80"
+	],
+	"inherits": "Fiberon PET-CF @System",
+	"name": "Fiberon PET-CF @System - Copy",
+	"nozzle_temperature": [
+		"280"
+	],
+	"nozzle_temperature_initial_layer": [
+		"280"
+	],
+	"version": "2.4.0.26"
+}
